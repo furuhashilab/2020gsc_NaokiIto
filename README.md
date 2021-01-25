@@ -25,3 +25,10 @@ https://docs.google.com/presentation/d/1x5hbBxJfv0VWxd2_ZB4GEeIpnkIvjfvcJspgoFvz
 本研究を進めるにあたり、青山学院大学地球社会共生学部教授の古橋大地氏をはじめ多くの方々より多大な助言を賜りました。厚く感謝申し上げます。
 # 進捗管理用プロジェクト
 https://github.com/furuhashilab/sotsuron2020/projects/19
+# 参考文献リスト
+https://docs.google.com/spreadsheets/d/1vEMJHCbkutzkJfsjgvIKqZy0MoX0C4aEBTmQ3S-6fdU/edit?usp=sharing
+# 中間発表スライド
+https://docs.google.com/presentation/d/1p5QQ9O_BLH64GZy0FPyt4qj_qrwKkxr8dQGKUY8mN5g/edit#slide=id.g9ff227d0e7_0_0
+# 中間発表medium
+https://medium.com/furuhashilab/pix4d%E3%82%92%E7%94%A8%E3%81%84%E3%81%9F%E3%82%AA%E3%83%AB%E3%82%BD%E3%83%A2%E3%82%B6%E3%82%A4%E3%82%AF%E3%81%AE%E5%BD%A2%E6%88%90%E3%81%AE%E3%83%9E%E3%83%8B%E3%83%A5%E3%82%A2%E3%83%AB%E4%BD%9C%E6%88%90-e0fb55a7a334
+
