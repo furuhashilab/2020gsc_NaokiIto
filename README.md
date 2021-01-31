@@ -21,7 +21,7 @@ https://drive.google.com/file/d/1TksqaKGSUjgJvfaf7smiaC5Se55fpg8g/view?usp=shari
 # Discussion
 感想として淡々としているが癖がなく聞き取りやすい。また顔があったほうが飽きずに集中することが出来るという意見もあった。このようにゆっくりといった人工音声がオンライン授業を行うことが出来る可能性を発見することが出来た。4年次では、ゆっくりを用いたマニュアルと私が説明したマニュアルどちらの方が理解しやすいかをアンケート調査を行い定量的な結果を得る。
 # google Slide
-https://docs.google.com/presentation/d/1x5hbBxJfv0VWxd2_ZB4GEeIpnkIvjfvcJspgoFvz-zg/edit#slide=id.gc6f73a04f_0_0
+https://drive.google.com/open?id=12hh_QSE7X6JlSaAAnZEuPEVRYEJUoqbSKFzf91H1Sgo&authuser=1
 # 謝辞
 本研究を進めるにあたり、青山学院大学地球社会共生学部教授の古橋大地氏をはじめ多くの方々より多大な助言を賜りました。厚く感謝申し上げます。
 # 進捗管理用プロジェクト
