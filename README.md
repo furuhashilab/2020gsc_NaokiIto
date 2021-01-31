@@ -27,7 +27,7 @@ https://docs.google.com/presentation/d/1x5hbBxJfv0VWxd2_ZB4GEeIpnkIvjfvcJspgoFvz
 # 進捗管理用プロジェクト
 https://github.com/furuhashilab/sotsuron2020/projects/19
 # 参考文献リスト
-https://docs.google.com/spreadsheets/d/1lWtcK4ZcMuogVpw8VpdbOgPkWA6DGDTMs9SE_CjLxng/edit#gid=0
+https://docs.google.com/spreadsheets/d/12seAo37PbBUazC6FLeZYwxJaO42qlaifjYd_1geb034/edit#gid=0
 # 中間発表スライド
 https://docs.google.com/presentation/d/1p5QQ9O_BLH64GZy0FPyt4qj_qrwKkxr8dQGKUY8mN5g/edit#slide=id.g9ff227d0e7_0_0
 # 中間発表medium
